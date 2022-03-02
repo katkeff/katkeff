@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @katkeff
-- 👀 I’m interested in learning how to code!
-- 🌱 I’m currently taking CS50x 2021!
-- 💞️ I’m looking to collaborate on something, some day!
+- 👋 Hi, I’m @katkeff 
 - 📫 How to reach me : email kat.keffner@gmail.com
 
 <!---
